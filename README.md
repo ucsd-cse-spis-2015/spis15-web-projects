@@ -12,7 +12,7 @@ README.md points to all the web project repos
  * http://murmuring-ravine-2868.herokuapp.com
 * http://github.com/sierrastump/SPIS15-Project-web-Sierra-Lauren
  * Photo Editing App
- * http://sierra-lauren-photo.herokuapp.com/
+ * http://picture-purrfect.herokuapp.com/
 * http://github.com/sstone3788/SPIS15-Project-web-Sylvia-Samantha 
  * Choose your Mom site.
  * http://yurmum.herokuapp.com
